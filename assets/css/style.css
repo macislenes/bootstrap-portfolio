@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-image: url("../images/bg-pic.png");
+}
+
+.card-body a {
+    color: #777;
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+}
